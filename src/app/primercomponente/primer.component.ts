@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
     styleUrls: ['./primer.component.css']
 })
 export class helloWorld {
-
+    title = 'bienvenido a esa wea';
 }
