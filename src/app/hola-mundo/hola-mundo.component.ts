@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HolaMundoComponent implements OnInit {
 
+  title = 'bienvenido a esa wea';
+
   constructor() { }
 
   ngOnInit() {
